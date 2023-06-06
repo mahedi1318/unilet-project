@@ -4,6 +4,7 @@ import Banner from '../components/banner/Banner'
 import Review from '../components/home/Review'
 import Works from '../components/home/works/Works'
 import RecentlyReviewed from '../components/home/recentlyReviewed/RecentlyReviewed'
+import OurArticles from '../components/home/OurArticles/OurArticles'
 
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
         <Review/>
         <Works/>
         <RecentlyReviewed/>
+        <OurArticles/>
     </div>
   )
 }
