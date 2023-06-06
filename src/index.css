@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,ol{
+  list-style: none;
+}
+
+a{
+  color: #3C3C3B !important;
+}
+
+body{
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 17px !important;
+  font-weight: 400 !important;
+  line-height: 19px !important;  
+}
+
+.fs-poens{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.primary-text{
+  color: #0FB3AF;  
+}
+
+.text-color{
+  color: #3C3C3B;
+}

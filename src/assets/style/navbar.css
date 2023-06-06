@@ -1,0 +1,12 @@
+.nav_item{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #3C3C3B;
+    text-transform: capitalize;
+}
+
+.active{
+    color:#0FB3AF;    
+}
+

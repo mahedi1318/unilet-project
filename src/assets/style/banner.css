@@ -1,0 +1,32 @@
+
+.awssld {
+    height: 800px;
+}
+
+.awssld__content{
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.toptext{
+    margin-top: -300px;
+}
+
+.textcolor{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 50px;
+    font-weight: 700 !important;
+    color: #3C3C3B;
+}
+
+.text2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px !important;
+    font-weight: 600;
+    color: #3C3C3B;    
+}
+
+.awssld__bullets {
+    bottom: 32px;  
+    z-index: 11;
+}
