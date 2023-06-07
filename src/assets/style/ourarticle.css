@@ -1,0 +1,21 @@
+
+.text_two i{
+    color: red;
+}
+
+.card-pera{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px !important;
+    font-weight: 400;
+    color: #3C3C3B;
+}
+
+.link-one{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px !important;
+    font-weight: 400;
+}
+
+.img{    
+    padding: 40px 40px 40px 40px;
+}

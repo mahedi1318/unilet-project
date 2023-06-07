@@ -5,6 +5,8 @@ import Review from '../components/home/Review'
 import Works from '../components/home/works/Works'
 import RecentlyReviewed from '../components/home/recentlyReviewed/RecentlyReviewed'
 import OurArticles from '../components/home/OurArticles/OurArticles'
+import HomeSearch from '../components/home/HomeSearch'
+
 
 
 const Home = () => {
@@ -15,6 +17,7 @@ const Home = () => {
         <Works/>
         <RecentlyReviewed/>
         <OurArticles/>
+        <HomeSearch/>
     </div>
   )
 }
